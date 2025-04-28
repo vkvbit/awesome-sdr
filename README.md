@@ -29,9 +29,12 @@ Most common and used SDR gears.
 
 LimeSDR is product of Lime Microsystems. Its official drivers, libraries and projects are published and maintained by [Myraid-RF](https://myriadrf.org/).
 
-### Drivers
 
+### Development Kit (GUI based)
 
-
+- [LimeSuiteNG](https://github.com/myriadrf/LimeSuiteNG)
+- [SoapySDR](https://github.com/pothosware/SoapySDR)
+- [PothosFlow](https://github.com/pothosware/PothosFlow)
+- [GNU Radio](https://github.com/gnuradio/gnuradio)
 
 
