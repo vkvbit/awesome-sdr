@@ -17,9 +17,11 @@ A curated list of awesome Software Defined Radio (SDR) software, drivers, framew
 - [🌐 Communities](#-communities)
 - [Contributing](#contributing)
 
+
 ---
 
-### Hardware
+
+### Hardwares
 
 Most common and used SDR gears:
 
@@ -84,6 +86,11 @@ LimeSDR is a full-duplex, highly flexible SDR ideal for advanced applications su
 - [GNU Radio](https://github.com/gnuradio/gnuradio)
 
 
+
+---
+
+
+
 ### Awesome SDR Projects
 
 - [Universal Radio Hacker](https://github.com/jopohl/urh) - The Universal Radio Hacker (URH) is a complete suite for wireless protocol investigation with native support for many common Software Defined Radios.
@@ -91,11 +98,20 @@ LimeSDR is a full-duplex, highly flexible SDR ideal for advanced applications su
 - [SDRangel](https://github.com/f4exb/sdrangel) - An open-source Qt5 / OpenGL 3.0+ SDR and signal analyzer frontend to various hardware.
 - [rtlamr](https://github.com/bemasher/rtlamr) - An rtl-sdr receiver for Itron ERT compatible smart meters operating in the 900MHz ISM band.
 
+
+---
+
+
 ### 🌐 Communities
 
 - [r/RTLSDR on Reddit](https://www.reddit.com/r/RTLSDR/) - Active subreddit for all things SDR.
 - [Myriad-RF Community Forum](https://discourse.myriadrf.org/) - Community discussion for LimeSDR and Myriad RF projects.
 - [SDR Enthusiasts Discord](https://discord.gg/sdr) - Unofficial but active Discord server for SDR hobbyists and developers.
+
+
+
+---
+
 
 ### 🧠 Books & References
 
