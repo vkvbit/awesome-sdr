@@ -1,26 +1,25 @@
-# Awesome SDR [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome SDR [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome Software Defined Radio (SDR) software, drivers, frameworks, libraries, tools, and more.
+A curated list of awesome Software Defined Radio (SDR) software, drivers, frameworks, libraries, tools, and more. Software Defined Radio enables flexible, reconfigurable radio systems using software rather than hardware components. This list highlights tools and resources for enthusiasts, students, and professionals interested in SDR development and experimentation.
 
-Software Defined Radio enables flexible, reconfigurable radio systems using software rather than hardware components. This list highlights tools and resources for enthusiasts, students, and professionals interested in SDR development and experimentation.
-
----
 
 ## Table of Contents
 
 - [Hardware](#hardware)
-- [HackRF Resources](#hackrf-resources)
+- [HackRF](#hackrf)
   - [Modes Supported by HackRF](#modes-supported-by-hackrf)
   - [Tools & Libraries](#tools--libraries)
-- [LimeSDR Resources](#limesdr-resources)
+- [LimeSDR](#limesdr)
   - [Modes Supported by LimeSDR](#modes-supported-by-limesdr)
   - [Development Kit (GUI based)](#development-kit-gui-based)
-- [Awesome SDR Resources](#awesome-sdr-resources)
+- [Awesome SDR Resources](#awesome-sdr-projects)
+- [🧠 Books & References](#-books--references)
+- [🌐 Communities](#-communities)
 - [Contributing](#contributing)
 
 ---
 
-## Hardware
+### Hardware
 
 Most common and used SDR gears:
 
@@ -32,9 +31,9 @@ Most common and used SDR gears:
 - **HackRF**
   - [HackRF One](https://greatscottgadgets.com/hackrf/one/)
 
-## HackRF Resources
+### HackRF
 
-### Modes Supported by HackRF
+#### Modes Supported by HackRF
 
 HackRF is a half-duplex SDR that supports a wide frequency range and can be used for:
 
@@ -49,7 +48,7 @@ HackRF is a half-duplex SDR that supports a wide frequency range and can be used
 - GPS signal replay
 - Key fob signal capture (433 MHz / 315 MHz)
 
-### Tools & Libraries
+#### Tools & Libraries
 
 - [GNU Radio](https://github.com/gnuradio/gnuradio)
 - [SDRangel](https://github.com/f4exb/sdrangel)
@@ -58,11 +57,11 @@ HackRF is a half-duplex SDR that supports a wide frequency range and can be used
 - [Gr-GSM](https://github.com/ptrkrysik/gr-gsm)
 - [QSpectrumAnalyzer](https://github.com/xmikos/qspectrumanalyzer)
 
-## LimeSDR Resources
+### LimeSDR
 
 LimeSDR is a product of Lime Microsystems. Its official drivers, libraries and projects are published and maintained by [Myriad-RF](https://myriadrf.org/).
 
-### Modes Supported by LimeSDR
+#### Modes Supported by LimeSDR
 
 LimeSDR is a full-duplex, highly flexible SDR ideal for advanced applications such as:
 
@@ -77,22 +76,20 @@ LimeSDR is a full-duplex, highly flexible SDR ideal for advanced applications su
 - Amateur Radio (SSB, CW, RTTY)
 - TETRA/DMR/PMR decoding
 
-### Development Kit (GUI based)
+#### Development Kit (GUI based)
 
 - [LimeSuiteNG](https://github.com/myriadrf/LimeSuiteNG)
 - [SoapySDR](https://github.com/pothosware/SoapySDR)
 - [PothosFlow](https://github.com/pothosware/PothosFlow)
 - [GNU Radio](https://github.com/gnuradio/gnuradio)
 
-## Awesome SDR Resources
 
-Curated list of learning materials, tutorials, communities, and projects around Software Defined Radio:
+### Awesome SDR Projects
 
-### 📚 Tutorials & Learning
-
-- [Awesome SDR (another awesome list)](https://github.com/ucsd-ccbb/awesome-sdr) - Great collection of SDR tools, hardware, and papers.
-- [RTL-SDR Blog Tutorials](https://www.rtl-sdr.com/tutorials/) - Excellent beginner to advanced guides on SDR usage and hacking.
-- [Great Scott Gadgets Learning](https://learn.greatscottgadgets.com/) - Interactive learning materials from the makers of HackRF.
+- [Universal Radio Hacker](https://github.com/jopohl/urh) - The Universal Radio Hacker (URH) is a complete suite for wireless protocol investigation with native support for many common Software Defined Radios.
+- [rt_433](https://github.com/merbanan/rtl_433) - A generic data receiver, mainly for the 433.92 MHz, 868 MHz (SRD), 315 MHz, 345 MHz, and 915 MHz ISM bands.
+- [SDRangel](https://github.com/f4exb/sdrangel) - An open-source Qt5 / OpenGL 3.0+ SDR and signal analyzer frontend to various hardware.
+- [rtlamr](https://github.com/bemasher/rtlamr) - An rtl-sdr receiver for Itron ERT compatible smart meters operating in the 900MHz ISM band.
 
 ### 🌐 Communities
 
@@ -105,11 +102,6 @@ Curated list of learning materials, tutorials, communities, and projects around 
 - *Software Defined Radio using MATLAB & Simulink* - Offers deep insight into building SDR systems using MathWorks tools.
 - *Introduction to Communications Engineering* by H. Taub - Solid foundation for understanding radio signals.
 
-### 🔧 Projects & Real-World Examples
-
-- [SignalsEverywhere YouTube Channel](https://www.youtube.com/c/SignalsEverywhere) - Hands-on videos with SDR gear.
-- [SDRangel](https://github.com/f4exb/sdrangel) - A Qt-based SDR and signal analyzer frontend.
-- [CubicSDR](https://github.com/cjcliffe/CubicSDR) - Cross-platform SDR application that supports multiple backends.
 
 ---
 
