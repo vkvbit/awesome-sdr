@@ -1,18 +1,35 @@
-# Awesome SDR [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome SDR [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+> A curated list of awesome Software Defined Radio (SDR) software, drivers, frameworks, libraries, tools, and more.
 
-A list of awesome Software Defined Radio (SDR) software, drivers, frameworks, libraries, tools, etc.
+Software Defined Radio enables flexible, reconfigurable radio systems using software rather than hardware components. This list highlights tools and resources for enthusiasts, students, and professionals interested in SDR development and experimentation.
+
+---
+
+## Table of Contents
+
+- [Hardware](#hardware)
+- [HackRF Resources](#hackrf-resources)
+  - [Modes Supported by HackRF](#modes-supported-by-hackrf)
+  - [Tools & Libraries](#tools--libraries)
+- [LimeSDR Resources](#limesdr-resources)
+  - [Modes Supported by LimeSDR](#modes-supported-by-limesdr)
+  - [Development Kit (GUI based)](#development-kit-gui-based)
+- [Awesome SDR Resources](#awesome-sdr-resources)
+- [Contributing](#contributing)
+
+---
 
 ## Hardware
 
-Most common and used SDR gears.
+Most common and used SDR gears:
 
-- LimeSDR
+- **LimeSDR**
   - [LimeSDR USB](https://limemicro.com/sdr/limesdr-usb/)
   - [LimeSDR Mini](https://limemicro.com/sdr/limesdr-mini-2-0/)
   - [LimeSDR XTRX](https://limemicro.com/sdr/limesdr-xtrx/)
   - [LimeSDR X3](https://limemicro.com/sdr/limesdr-x3/)
-- HackRF
+- **HackRF**
   - [HackRF One](https://greatscottgadgets.com/hackrf/one/)
 
 ## HackRF Resources
@@ -56,7 +73,7 @@ LimeSDR is a full-duplex, highly flexible SDR ideal for advanced applications su
 - Wideband spectrum analysis
 - FM/DAB/AM Radio reception
 - Digital TV (DVB-T)
-- Wi-Fi/Bluetooth/ ZigBee prototyping
+- Wi-Fi/Bluetooth/ZigBee prototyping
 - Amateur Radio (SSB, CW, RTTY)
 - TETRA/DMR/PMR decoding
 
@@ -71,26 +88,35 @@ LimeSDR is a full-duplex, highly flexible SDR ideal for advanced applications su
 
 Curated list of learning materials, tutorials, communities, and projects around Software Defined Radio:
 
-- 📚 **Tutorials & Learning**
-  - [Awesome SDR (another awesome list)](https://github.com/ucsd-ccbb/awesome-sdr) – Great collection of SDR tools, hardware, and papers.
-  - [RTL-SDR Blog Tutorials](https://www.rtl-sdr.com/tutorials/) – Excellent beginner to advanced guides on SDR usage and hacking.
-  - [Great Scott Gadgets Learning](https://learn.greatscottgadgets.com/) – Interactive learning materials from the makers of HackRF.
+### 📚 Tutorials & Learning
 
-- 🌐 **Communities**
-  - [r/RTLSDR on Reddit](https://www.reddit.com/r/RTLSDR/) – Active subreddit for all things SDR.
-  - [Myriad-RF Community Forum](https://discourse.myriadrf.org/) – Community discussion for LimeSDR and Myriad RF projects.
-  - [SDR Enthusiasts Discord](https://discord.gg/sdr) – Unofficial but active Discord server for SDR hobbyists and developers.
+- [Awesome SDR (another awesome list)](https://github.com/ucsd-ccbb/awesome-sdr) - Great collection of SDR tools, hardware, and papers.
+- [RTL-SDR Blog Tutorials](https://www.rtl-sdr.com/tutorials/) - Excellent beginner to advanced guides on SDR usage and hacking.
+- [Great Scott Gadgets Learning](https://learn.greatscottgadgets.com/) - Interactive learning materials from the makers of HackRF.
 
-- 🧠 **Books & References**
-  - *Software Defined Radio using MATLAB & Simulink* – Offers deep insight into building SDR systems using MathWorks tools.
-  - *Introduction to Communications Engineering* by H. Taub – Solid foundation for understanding radio signals.
+### 🌐 Communities
 
-- 🔧 **Projects & Real-World Examples**
-  - [SignalsEverywhere YouTube Channel](https://www.youtube.com/c/SignalsEverywhere) – Hands-on videos with SDR gear.
-  - [SDRangel](https://github.com/f4exb/sdrangel) – A Qt-based SDR and signal analyzer frontend.
-  - [CubicSDR](https://github.com/cjcliffe/CubicSDR) – Cross-platform SDR application that supports multiple backends.
+- [r/RTLSDR on Reddit](https://www.reddit.com/r/RTLSDR/) - Active subreddit for all things SDR.
+- [Myriad-RF Community Forum](https://discourse.myriadrf.org/) - Community discussion for LimeSDR and Myriad RF projects.
+- [SDR Enthusiasts Discord](https://discord.gg/sdr) - Unofficial but active Discord server for SDR hobbyists and developers.
 
+### 🧠 Books & References
 
+- *Software Defined Radio using MATLAB & Simulink* - Offers deep insight into building SDR systems using MathWorks tools.
+- *Introduction to Communications Engineering* by H. Taub - Solid foundation for understanding radio signals.
+
+### 🔧 Projects & Real-World Examples
+
+- [SignalsEverywhere YouTube Channel](https://www.youtube.com/c/SignalsEverywhere) - Hands-on videos with SDR gear.
+- [SDRangel](https://github.com/f4exb/sdrangel) - A Qt-based SDR and signal analyzer frontend.
+- [CubicSDR](https://github.com/cjcliffe/CubicSDR) - Cross-platform SDR application that supports multiple backends.
 
 ---
-_Contributions welcome! Feel free to submit a pull request if you know of more awesome SDR-related resources._
+
+## Contributing
+
+Contributions welcome! Please read the [contributing guidelines](CONTRIBUTING.md) and adhere to the [code of conduct](CODE_OF_CONDUCT.md).
+
+---
+
+*Maintained by [vkvbit](https://keybase.io/vkvbit)* – Secure communications welcome via Keybase.
