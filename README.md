@@ -11,7 +11,7 @@
 - [LimeSDR](#limesdr)
   - [Modes Supported by LimeSDR](#modes-supported-by-limesdr)
   - [Development Kit (GUI based)](#development-kit-gui-based)
-- [Awesome SDR Resources](#awesome-sdr-projects)
+- [Awesome SDR Projects](#awesome-sdr-projects)
 - [Books & References](#-books--references)
 - [Communities](#-communities)
 - [Contributing](#contributing)
@@ -78,7 +78,6 @@ LimeSDR is a full-duplex, highly flexible SDR ideal for advanced applications su
 - [LimeSuiteNG](https://github.com/myriadrf/LimeSuiteNG) - Next generation LimeSuite GUI application.
 - [SoapySDR](https://github.com/pothosware/SoapySDR) - Vendor and platform neutral SDR support library.
 - [PothosFlow](https://github.com/pothosware/PothosFlow) - A dataflow programming environment for SDR.
-- [GNU Radio](https://github.com/gnuradio/gnuradio) - A free & open-source software development toolkit that provides signal processing blocks to implement software radios.
 
 ## Awesome SDR Projects
 
