@@ -14,7 +14,6 @@
 - [Awesome SDR Projects](#awesome-sdr-projects)
 - [Communities](#communities)
 - [Books & References](#books--references)
-- [Contributing](#contributing)
 
 ## Hardware
 
