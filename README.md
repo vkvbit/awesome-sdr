@@ -12,8 +12,8 @@
   - [Modes Supported by LimeSDR](#modes-supported-by-limesdr)
   - [Development Kit (GUI based)](#development-kit-gui-based)
 - [Awesome SDR Projects](#awesome-sdr-projects)
-- [Books & References](#-books--references)
 - [Communities](#-communities)
+- [Books & References](#-books--references)
 - [Contributing](#contributing)
 
 ## Hardware
