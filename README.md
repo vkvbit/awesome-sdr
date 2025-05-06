@@ -12,6 +12,7 @@
   - [Modes Supported by LimeSDR](#modes-supported-by-limesdr)
   - [Development Kit (GUI based)](#development-kit-gui-based)
 - [Awesome SDR Projects](#awesome-sdr-projects)
+- [Tutorials](#tutorials)
 - [Communities](#communities)
 - [Books & References](#books--references)
 
@@ -83,6 +84,10 @@ LimeSDR is a full-duplex, highly flexible SDR ideal for advanced applications su
 - [Universal Radio Hacker](https://github.com/jopohl/urh) - The Universal Radio Hacker (URH) is a complete suite for wireless protocol investigation with native support for many common Software Defined Radios.
 - [rtl_433](https://github.com/merbanan/rtl_433) - A generic data receiver, mainly for the 433.92 MHz, 868 MHz (SRD), 315 MHz, 345 MHz, and 915 MHz ISM bands.
 - [rtlamr](https://github.com/bemasher/rtlamr) - An rtl-sdr receiver for Itron ERT compatible smart meters operating in the 900MHz ISM band.
+
+## Tutorials
+
+- [Great Scott Gadgets](https://greatscottgadgets.com/sdr/) - Software Defined Radio with HackRF
 
 ## Communities
 
